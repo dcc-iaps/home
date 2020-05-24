@@ -1,0 +1,12 @@
+############################### Banner ################################
+banner:
+  enable : true
+  bg_image_webp : "images/backgrounds/full_nav_bg.webp"
+  bg_image : "images/backgrounds/full_nav_bg.jpg"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "Decoders of the Cosmic Code"
+  content : "[{iaps}](https://iaps.info) Local Committee New Delhi"
+  button:
+    enable : true
+    label : "Explore Us"
+    link : "#about"

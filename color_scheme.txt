@@ -1,0 +1,19 @@
+-------------------------------------------------------------------------------------
+The following is the Colour Scheme obtained from the DCC Logo and used in the website
+-------------------------------------------------------------------------------------
+
+#4a3257 : rgb(74, 50, 87)
+#b693d1 : rgb(182, 147, 209)
+#efdff6 : rgb(239, 223, 246)
+#321d38 : rgb(50, 29, 56)
+#7f5e9c : rgb(127, 94, 156)
+#937aa6 : rgb(147, 122, 166)
+#59406f : rgb(89, 64, 111)
+#a68fb1 : rgb(166, 143, 177)
+#6f567f : rgb(111, 86, 127)
+#5c4f5a : rgb(92, 79, 90)
+#bcbcbc : rgb(188, 188, 188)
+
+#afbac4 (This Font Color was replaced Line 30 of styles.css)
+#353b43 (HTML Background color replaced)
+#737f8a (HTML color replaced)

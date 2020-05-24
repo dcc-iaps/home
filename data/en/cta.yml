@@ -1,0 +1,11 @@
+############################# call to action ##############################
+cta:
+  enable : true
+  bg_image : "images/backgrounds/bg-white-wall.jpg"
+  bg_image_webp : "images/backgrounds/bg-white-wall.webp"
+  title : "Want to Become a Member of DCC ?"
+  content : "If you are a physics student in Delhi or member of a University physics at a college in Delhi and you want to be Member of {iaps} then contact us and become the member of LC-New Delhi"
+  button:
+    enable : true
+    label : "Join Us"
+    link : "#contact"
