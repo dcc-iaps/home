@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://examplesite.com"
+baseURL = "https://dcc-iaps.github.io/dcc-iaps/"
 title = "DCC | Decoders of the Cosmic Code"
 theme = "meghna-hugo"
 publishDir = "docs"
